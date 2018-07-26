@@ -1,0 +1,33 @@
+.list {
+    font-size: 50px;
+    text-align: left
+}
+
+.list2 {
+    font-size: 35px;
+    text-align: left
+}
+
+
+.theme {
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.hobbies {
+    color: darkred;
+    font-size: 100px;
+}
+
+.picture {
+    height: 75vh;
+    text-align: center;
+}
+
+.title {
+    color: aqua;
+    font-size: 200px;
+    background-color: yellowgreen;
+    text-align: center;
+    box-shadow: 5px 10px #111;
+}
